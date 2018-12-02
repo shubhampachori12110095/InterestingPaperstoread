@@ -9,3 +9,6 @@ https://github.com/shubhampachori12110095/retain
 
 Deep Learning based paper's resources
 https://github.com/handong1587/handong1587.github.io/tree/master/_posts/deep_learning
+
+Synthesizing Tabular Data using Generative Adversarial Networks
+https://arxiv.org/pdf/1811.11264.pdf
