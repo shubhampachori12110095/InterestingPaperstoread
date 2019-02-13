@@ -12,3 +12,5 @@ https://github.com/handong1587/handong1587.github.io/tree/master/_posts/deep_lea
 
 Synthesizing Tabular Data using Generative Adversarial Networks
 https://arxiv.org/pdf/1811.11264.pdf
+
+http://xplordat.com/2019/01/13/word-bags-vs-word-sequences-for-text-classification/
