@@ -14,3 +14,5 @@ Synthesizing Tabular Data using Generative Adversarial Networks
 https://arxiv.org/pdf/1811.11264.pdf
 
 http://xplordat.com/2019/01/13/word-bags-vs-word-sequences-for-text-classification/
+
+https://www.cs.utexas.edu/~vsub/#Research
