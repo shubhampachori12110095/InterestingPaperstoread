@@ -16,3 +16,9 @@ https://arxiv.org/pdf/1811.11264.pdf
 http://xplordat.com/2019/01/13/word-bags-vs-word-sequences-for-text-classification/
 
 https://www.cs.utexas.edu/~vsub/#Research
+
+http://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/
+
+https://medium.com/@bgg/seq2seq-pay-attention-to-self-attention-part-2-cf81bf32c73d
+
+https://jalammar.github.io/illustrated-transformer/
