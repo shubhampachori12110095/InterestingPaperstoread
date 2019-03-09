@@ -22,3 +22,7 @@ http://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/
 https://medium.com/@bgg/seq2seq-pay-attention-to-self-attention-part-2-cf81bf32c73d
 
 https://jalammar.github.io/illustrated-transformer/
+
+
+https://www.comp.nus.edu.sg/~xiangnan/
+
